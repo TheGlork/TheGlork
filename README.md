@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, from basics!
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me -
-- DISCORD: itsnotoak
+- DISCORD: theglork
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a dino :D
 
