@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @TheGlork
-- 👀 I’m interested in learning python, making random stuff in javascript and existing
+- 👀 I’m interested in learning python and existing
 - 🌱 I’m currently learning python, from basics!
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me -
-- DISCORD: theglork
+- Discord: theglork
+- Email: thegokul2406@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a dino :D
 
